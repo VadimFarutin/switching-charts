@@ -1,0 +1,25 @@
+{
+  "name": "switching-charts",
+  "version": "0.0.256",
+  "keywords": [],
+  "main": "script.jsx",
+  "dependencies": {
+    "highcharts": "latest",
+    "highcharts-react-official": "2.0.0",
+    "react": "16.6.0",
+    "react-dom": "16.6.0",
+    "react-redux": "6.0.0",
+    "react-scripts": "2.0.5",
+    "redux": "4.0.5"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "description": "Demo which shows how to use Highcharts react wrapper."
+}
